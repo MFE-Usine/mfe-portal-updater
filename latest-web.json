@@ -1,15 +1,15 @@
 {
-  "pub_date": "2026-08-10T12:56:43.586Z",
+  "version": "0.1.35",
+  "pub_date": "2026-08-10T15:41:46.871Z",
   "platforms": {
     "windows-x86_64-nsis": {
-      "url": "https://github.com/MFE-Usine/mfe-portal-updater/releases/download/web-v0.1.34/Portal-MFE_0.1.34_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbTAzZGpFakxPeSt2aEozOTkyUndaTkk0RGV5Wnh5V1RXWE1LamJCR2RRdHM0NWhVVUFCZ3VaaktXZTUzV2U1R21nV2puS0RNZVQ2eENVNlRJLzhNWGpNSkVzSmhTOUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MzY2NTk4CWZpbGU6UG9ydGFsLU1GRV8wLjEuMzRfeDY0LXNldHVwLmV4ZQpmS3crcDdFaVVyZFFaNlZuT0pNc1N3Wkl3MHpuWU9jclFVc1hSN0M4MWJxam9tMkM2UEFyeUlNbkVraFBOck9PZldVSzZpODZWUk9ScmpJa3RvRFdCZz09Cg=="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbTAzZGpFakxPeTZMRXJqZWx5TkU3bHJac253YVFFUjhvSzI2RTE3dXFSSGVLczcxazhqN1lXbHdUYVJWNG11Q3IzYTFsTUtYTnloREw4SzhKSENHNTZuSE9sVFNQNlFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2Mzc2NTAxCWZpbGU6UG9ydGFsLU1GRV8wLjEuMzVfeDY0LXNldHVwLmV4ZQpJS1FzNUFEWDFsbVdqVk4rSlBMbVVUUWxVaWdkbWNzanp3VGZrWitudXA3M1ZLQ1NkQXphZkJnSElqZGtqZWdTV0RpUkJZd0tMK2F5aDByUHF2SGZDQT09Cg==",
+      "url": "https://github.com/MFE-Usine/mfe-portal-updater/releases/download/web-v0.1.35/Portal-MFE_0.1.35_x64-setup.exe"
     },
     "windows-x86_64": {
-      "url": "https://github.com/MFE-Usine/mfe-portal-updater/releases/download/web-v0.1.34/Portal-MFE_0.1.34_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbTAzZGpFakxPeSt2aEozOTkyUndaTkk0RGV5Wnh5V1RXWE1LamJCR2RRdHM0NWhVVUFCZ3VaaktXZTUzV2U1R21nV2puS0RNZVQ2eENVNlRJLzhNWGpNSkVzSmhTOUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MzY2NTk4CWZpbGU6UG9ydGFsLU1GRV8wLjEuMzRfeDY0LXNldHVwLmV4ZQpmS3crcDdFaVVyZFFaNlZuT0pNc1N3Wkl3MHpuWU9jclFVc1hSN0M4MWJxam9tMkM2UEFyeUlNbkVraFBOck9PZldVSzZpODZWUk9ScmpJa3RvRFdCZz09Cg=="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbTAzZGpFakxPeTZMRXJqZWx5TkU3bHJac253YVFFUjhvSzI2RTE3dXFSSGVLczcxazhqN1lXbHdUYVJWNG11Q3IzYTFsTUtYTnloREw4SzhKSENHNTZuSE9sVFNQNlFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2Mzc2NTAxCWZpbGU6UG9ydGFsLU1GRV8wLjEuMzVfeDY0LXNldHVwLmV4ZQpJS1FzNUFEWDFsbVdqVk4rSlBMbVVUUWxVaWdkbWNzanp3VGZrWitudXA3M1ZLQ1NkQXphZkJnSElqZGtqZWdTV0RpUkJZd0tMK2F5aDByUHF2SGZDQT09Cg==",
+      "url": "https://github.com/MFE-Usine/mfe-portal-updater/releases/download/web-v0.1.35/Portal-MFE_0.1.35_x64-setup.exe"
     }
   },
-  "notes": "Portal MFE logiciel v0.1.34 (bundled UI).",
-  "version": "0.1.34"
+  "notes": "Portal MFE logiciel v0.1.35 (bundled UI)."
 }
