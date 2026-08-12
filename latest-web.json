@@ -1,15 +1,15 @@
 {
-  "version": "0.1.37",
+  "notes": "Portal MFE logiciel v0.1.39 (bundled UI).",
+  "version": "0.1.39",
   "platforms": {
     "windows-x86_64-nsis": {
-      "url": "https://github.com/MFE-Usine/mfe-portal-updater/releases/download/web-v0.1.37/Portal-MFE_0.1.37_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbTAzZGpFakxPeXdDS3BYdkcvUklhYjY4VktyMG5rVGQrTmlqaUxoM0xCVCs1NjNuVjNpS2ZCWGNQa01tQzN2SHh1dGpvZ0FlaUZJczRYRWJUd1ZKQnc5dmFPcG8xeXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTM2MzEyCWZpbGU6UG9ydGFsLU1GRV8wLjEuMzdfeDY0LXNldHVwLmV4ZQowdWNUK0ozTXZVMXpxL3lFWTdKc1Mray9WWTRUSCtmMXUwdVZXSzRDT3Q2QmRFOUJZSlB1bXFjc1BUd3RUcnJuUHFxSWl3ZnNtUXNrMnlaS3NuSjJDdz09Cg=="
+      "url": "https://github.com/MFE-Usine/mfe-portal-updater/releases/download/web-v0.1.39/Portal-MFE_0.1.39_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbTAzZGpFakxPeTlMc1ozK25jYXpYUGsrcmNaUmhlWVlPUC83azAzOTl3U2hUMUo4dGRLd0xNVzI0MVdsbGVQVjgzOW0va2prQlpnaDY5enA3cUNzUU8yT0dMb1d5eXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTU4MDM2CWZpbGU6UG9ydGFsLU1GRV8wLjEuMzlfeDY0LXNldHVwLmV4ZQpoQkEvVFFkNGVxUnRHLzZOYTloU3BFRjdBVzZsL2M1VjJsdUFWU1RkVjFSMW9DUkdGMWNDRUNublRqQ0hZenVBVDg1NGNyWlByZVVaS0FSK3k3ajNDQT09Cg=="
     },
     "windows-x86_64": {
-      "url": "https://github.com/MFE-Usine/mfe-portal-updater/releases/download/web-v0.1.37/Portal-MFE_0.1.37_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbTAzZGpFakxPeXdDS3BYdkcvUklhYjY4VktyMG5rVGQrTmlqaUxoM0xCVCs1NjNuVjNpS2ZCWGNQa01tQzN2SHh1dGpvZ0FlaUZJczRYRWJUd1ZKQnc5dmFPcG8xeXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTM2MzEyCWZpbGU6UG9ydGFsLU1GRV8wLjEuMzdfeDY0LXNldHVwLmV4ZQowdWNUK0ozTXZVMXpxL3lFWTdKc1Mray9WWTRUSCtmMXUwdVZXSzRDT3Q2QmRFOUJZSlB1bXFjc1BUd3RUcnJuUHFxSWl3ZnNtUXNrMnlaS3NuSjJDdz09Cg=="
+      "url": "https://github.com/MFE-Usine/mfe-portal-updater/releases/download/web-v0.1.39/Portal-MFE_0.1.39_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbTAzZGpFakxPeTlMc1ozK25jYXpYUGsrcmNaUmhlWVlPUC83azAzOTl3U2hUMUo4dGRLd0xNVzI0MVdsbGVQVjgzOW0va2prQlpnaDY5enA3cUNzUU8yT0dMb1d5eXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTU4MDM2CWZpbGU6UG9ydGFsLU1GRV8wLjEuMzlfeDY0LXNldHVwLmV4ZQpoQkEvVFFkNGVxUnRHLzZOYTloU3BFRjdBVzZsL2M1VjJsdUFWU1RkVjFSMW9DUkdGMWNDRUNublRqQ0hZenVBVDg1NGNyWlByZVVaS0FSK3k3ajNDQT09Cg=="
     }
   },
-  "notes": "Portal MFE logiciel v0.1.37 (bundled UI).",
-  "pub_date": "2026-08-12T12:05:17.873Z"
+  "pub_date": "2026-08-12T18:07:20.439Z"
 }
