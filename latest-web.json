@@ -1,15 +1,15 @@
 {
-  "pub_date": "2026-08-13T19:24:59.914Z",
+  "pub_date": "2026-08-13T20:02:47.421Z",
   "platforms": {
-    "windows-x86_64": {
-      "url": "https://github.com/MFE-Usine/mfe-portal-updater/releases/download/web-v0.1.44/Portal-MFE_0.1.44_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbTAzZGpFakxPeThkektWZTVIZllnZ2ZjaWV6MHFobWhyQkJQYWE2QlZydzRFV2ZyN2dtblNhL0k1eWc4MzNxRkRIckp5QUJQSDJVU0k5c1NjQ0pYTUZYYmprTFdEWFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjQ5MDkzCWZpbGU6UG9ydGFsLU1GRV8wLjEuNDRfeDY0LXNldHVwLmV4ZQpYbXRiNk5RR3R5dFRaUkhUS3dsSFV3eC9SVDJUK3lyL1QzZEdjSU5CNDlOSUxuSVhMZjVKYTlPaW1OYTFxWVZVUnRlc0ZNbXpEWUZRZjJtc2pBU1BBQT09Cg=="
-    },
     "windows-x86_64-nsis": {
-      "url": "https://github.com/MFE-Usine/mfe-portal-updater/releases/download/web-v0.1.44/Portal-MFE_0.1.44_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbTAzZGpFakxPeThkektWZTVIZllnZ2ZjaWV6MHFobWhyQkJQYWE2QlZydzRFV2ZyN2dtblNhL0k1eWc4MzNxRkRIckp5QUJQSDJVU0k5c1NjQ0pYTUZYYmprTFdEWFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjQ5MDkzCWZpbGU6UG9ydGFsLU1GRV8wLjEuNDRfeDY0LXNldHVwLmV4ZQpYbXRiNk5RR3R5dFRaUkhUS3dsSFV3eC9SVDJUK3lyL1QzZEdjSU5CNDlOSUxuSVhMZjVKYTlPaW1OYTFxWVZVUnRlc0ZNbXpEWUZRZjJtc2pBU1BBQT09Cg=="
+      "url": "https://github.com/MFE-Usine/mfe-portal-updater/releases/download/web-v0.1.45/Portal-MFE_0.1.45_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbTAzZGpFakxPeXhJamhTWlVuV2xmSFVSTWI1UDdmR1ZiUm40dzkvOGhENVZGNzQ5RlZ5Qk9WMTBqUnkvK0gwakJpNHlOVWl4UDdNcS9STHhsZ24xbmpjM09Ha21MN0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjUxMzYzCWZpbGU6UG9ydGFsLU1GRV8wLjEuNDVfeDY0LXNldHVwLmV4ZQpUSzN4d2owK0RyWlBMY292bVk5KzdteWIwNUtuWS9JRnM1MytBMi9JbGNPa1l3eUNJL25OZEowZnJvZDhIOENWN2xjbzJCRmlIU0t0aVMvMlQxN1dBQT09Cg=="
+    },
+    "windows-x86_64": {
+      "url": "https://github.com/MFE-Usine/mfe-portal-updater/releases/download/web-v0.1.45/Portal-MFE_0.1.45_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbTAzZGpFakxPeXhJamhTWlVuV2xmSFVSTWI1UDdmR1ZiUm40dzkvOGhENVZGNzQ5RlZ5Qk9WMTBqUnkvK0gwakJpNHlOVWl4UDdNcS9STHhsZ24xbmpjM09Ha21MN0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjUxMzYzCWZpbGU6UG9ydGFsLU1GRV8wLjEuNDVfeDY0LXNldHVwLmV4ZQpUSzN4d2owK0RyWlBMY292bVk5KzdteWIwNUtuWS9JRnM1MytBMi9JbGNPa1l3eUNJL25OZEowZnJvZDhIOENWN2xjbzJCRmlIU0t0aVMvMlQxN1dBQT09Cg=="
     }
   },
-  "version": "0.1.44",
-  "notes": "Portal MFE logiciel v0.1.44 (bundled UI)."
+  "notes": "Portal MFE logiciel v0.1.45 (bundled UI).",
+  "version": "0.1.45"
 }
