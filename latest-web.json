@@ -1,15 +1,15 @@
 {
-  "notes": "Portal MFE logiciel v0.1.59 (bundled UI).",
-  "version": "0.1.59",
-  "pub_date": "2026-08-15T16:55:40.476Z",
+  "version": "0.1.61",
+  "notes": "Portal MFE logiciel v0.1.61 (bundled UI).",
+  "pub_date": "2026-08-17T10:31:57.498Z",
   "platforms": {
-    "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbTAzZGpFakxPeTA1OVlpV0trZnBEdTB1WFlHcXhZUk5DZTdseGNyUlV4U2FVR2tuZm44NkJNclRzMTUxOUp5RGxmN2lkMUphbFM1OTZFTUJvWlp2Vjl4b01CR2tINUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2ODEyOTM1CWZpbGU6UG9ydGFsLU1GRV8wLjEuNTlfeDY0LXNldHVwLmV4ZQp3ZVFrcnIvVC80em5Xcjc3Q0YxZ2lQbExGaXhZVU1MdjU5RWpYZ2RENDdOMk85eFk3NFNEcDZiVENKS2dUZWI2Y1ZOd1RQY1lZUE5md1JORWxqRmpBZz09Cg==",
-      "url": "https://github.com/MFE-Usine/mfe-portal-updater/releases/download/web-v0.1.59/Portal-MFE_0.1.59_x64-setup.exe"
-    },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbTAzZGpFakxPeTA1OVlpV0trZnBEdTB1WFlHcXhZUk5DZTdseGNyUlV4U2FVR2tuZm44NkJNclRzMTUxOUp5RGxmN2lkMUphbFM1OTZFTUJvWlp2Vjl4b01CR2tINUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2ODEyOTM1CWZpbGU6UG9ydGFsLU1GRV8wLjEuNTlfeDY0LXNldHVwLmV4ZQp3ZVFrcnIvVC80em5Xcjc3Q0YxZ2lQbExGaXhZVU1MdjU5RWpYZ2RENDdOMk85eFk3NFNEcDZiVENKS2dUZWI2Y1ZOd1RQY1lZUE5md1JORWxqRmpBZz09Cg==",
-      "url": "https://github.com/MFE-Usine/mfe-portal-updater/releases/download/web-v0.1.59/Portal-MFE_0.1.59_x64-setup.exe"
+      "url": "https://github.com/MFE-Usine/mfe-portal-updater/releases/download/web-v0.1.61/Portal-MFE_0.1.61_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbTAzZGpFakxPeS9QWWZBcVBySXFxOUV6emNCWUZ4Y05Sdnh3OU9QTDNuSUIrVkE2MURNSkJ1U250UEs0MVZOSFcwa3VEMkNZSXBtWW4rbDQyTmdUcXZwckhYelByN2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2OTYyNzEzCWZpbGU6UG9ydGFsLU1GRV8wLjEuNjFfeDY0LXNldHVwLmV4ZQp4dXNGb0ppTHJnRUxJNzFUZHovTjVFT280NzExb2xhL2t4c3MveHhvSDk2NXdkd05UM3U1ZWY0c3JjL3ZSNnI5YjM0dWVtKytQQzNOT0t5YjE1b29CZz09Cg=="
+    },
+    "windows-x86_64-nsis": {
+      "url": "https://github.com/MFE-Usine/mfe-portal-updater/releases/download/web-v0.1.61/Portal-MFE_0.1.61_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbTAzZGpFakxPeS9QWWZBcVBySXFxOUV6emNCWUZ4Y05Sdnh3OU9QTDNuSUIrVkE2MURNSkJ1U250UEs0MVZOSFcwa3VEMkNZSXBtWW4rbDQyTmdUcXZwckhYelByN2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2OTYyNzEzCWZpbGU6UG9ydGFsLU1GRV8wLjEuNjFfeDY0LXNldHVwLmV4ZQp4dXNGb0ppTHJnRUxJNzFUZHovTjVFT280NzExb2xhL2t4c3MveHhvSDk2NXdkd05UM3U1ZWY0c3JjL3ZSNnI5YjM0dWVtKytQQzNOT0t5YjE1b29CZz09Cg=="
     }
   }
 }
