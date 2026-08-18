@@ -1,15 +1,15 @@
 {
-  "notes": "Portal MFE logiciel v0.1.68 (bundled UI).",
+  "notes": "Portal MFE logiciel v0.1.69 (bundled UI).",
   "platforms": {
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbTAzZGpFakxPeThJbnFQSW83ZkQyUjRSSzU3c2l6a3IwMWp4aWU2dXdJT2RDQmc3SE5Sc3ZNRWJUQWhoQWFiT1A5dGVJSnpBUVRub0FvTVhoWGt0MkNqblRmd09lbmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MDY2NjA3CWZpbGU6UG9ydGFsLU1GRV8wLjEuNjhfeDY0LXNldHVwLmV4ZQpCRjBrYjdWVkgwYXZ3RDRSdSt4OWNnUE0reWFwaEFBZGVSNktiQXNFUkNDVkx5T2VhMjloVXZyeldiQ3o4ZXB4bnBOWDI0MFFHdU1nR09qZUVOTDdBdz09Cg==",
-      "url": "https://github.com/MFE-Usine/mfe-portal-updater/releases/download/web-v0.1.68/Portal-MFE_0.1.68_x64-setup.exe"
+      "url": "https://github.com/MFE-Usine/mfe-portal-updater/releases/download/web-v0.1.69/Portal-MFE_0.1.69_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbTAzZGpFakxPeS81VE4yRWlwV000ZXBERVNvdlU4QzlDRmxOY1RrN3p3dlJWZUZEZVNkM1pDVUs2b3hIREpTMDlteWRvdStOSzMrTG9MdW00VTRDOWd6ai9GUU5ZdFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MDY3NDQ4CWZpbGU6UG9ydGFsLU1GRV8wLjEuNjlfeDY0LXNldHVwLmV4ZQpKQ0h5L1R1Zmp4Q0JITlJBQ0R1d3diNWlrWlVRcFBRMlZHVFpFTWVSSlFMUW5FTERmc1c2bTV6VGVtMVZDSW96Z3F3MERGYmwxbTdoNWNEQit4c0hCQT09Cg=="
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbTAzZGpFakxPeThJbnFQSW83ZkQyUjRSSzU3c2l6a3IwMWp4aWU2dXdJT2RDQmc3SE5Sc3ZNRWJUQWhoQWFiT1A5dGVJSnpBUVRub0FvTVhoWGt0MkNqblRmd09lbmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MDY2NjA3CWZpbGU6UG9ydGFsLU1GRV8wLjEuNjhfeDY0LXNldHVwLmV4ZQpCRjBrYjdWVkgwYXZ3RDRSdSt4OWNnUE0reWFwaEFBZGVSNktiQXNFUkNDVkx5T2VhMjloVXZyeldiQ3o4ZXB4bnBOWDI0MFFHdU1nR09qZUVOTDdBdz09Cg==",
-      "url": "https://github.com/MFE-Usine/mfe-portal-updater/releases/download/web-v0.1.68/Portal-MFE_0.1.68_x64-setup.exe"
+      "url": "https://github.com/MFE-Usine/mfe-portal-updater/releases/download/web-v0.1.69/Portal-MFE_0.1.69_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbTAzZGpFakxPeS81VE4yRWlwV000ZXBERVNvdlU4QzlDRmxOY1RrN3p3dlJWZUZEZVNkM1pDVUs2b3hIREpTMDlteWRvdStOSzMrTG9MdW00VTRDOWd6ai9GUU5ZdFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MDY3NDQ4CWZpbGU6UG9ydGFsLU1GRV8wLjEuNjlfeDY0LXNldHVwLmV4ZQpKQ0h5L1R1Zmp4Q0JITlJBQ0R1d3diNWlrWlVRcFBRMlZHVFpFTWVSSlFMUW5FTERmc1c2bTV6VGVtMVZDSW96Z3F3MERGYmwxbTdoNWNEQit4c0hCQT09Cg=="
     }
   },
-  "version": "0.1.68",
-  "pub_date": "2026-08-18T15:23:32.309Z"
+  "version": "0.1.69",
+  "pub_date": "2026-08-18T15:37:31.765Z"
 }
