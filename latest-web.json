@@ -1,15 +1,15 @@
 {
-  "version": "0.1.157",
-  "pub_date": "2026-10-30T16:27:48.428Z",
-  "notes": "Portal MFE logiciel v0.1.157 (bundled UI).",
+  "pub_date": "2026-10-30T16:44:26.958Z",
   "platforms": {
     "windows-x86_64-nsis": {
-      "url": "https://github.com/MFE-Usine/mfe-portal-updater/releases/download/web-v0.1.157/Portal-MFE_0.1.157_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbTAzZGpFakxPeTlBS05TaUNXc2VyK3k2WWhGMTlwSGd0NEhQak53Sk00MkxWQUU0YzNBanlua3Q4MlRHckxZeGQzdE9BK3NoclQyQThPejQwUlp4TXNIVmJyOHVrcVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzc3NjYzCWZpbGU6UG9ydGFsLU1GRV8wLjEuMTU3X3g2NC1zZXR1cC5leGUKMmJFS1J4VXdWTTlzZlJmQkpqL0tqRmhpQUxMd0kyWU0wZzFSbHlSRDYveCt2bWwraWw3b0JQVzZ6SEZUWXB6cGgvN2cxUnZkcEFLRThPaUYyc1F3RHc9PQo="
+      "url": "https://github.com/MFE-Usine/mfe-portal-updater/releases/download/web-v0.1.158/Portal-MFE_0.1.158_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbTAzZGpFakxPeXhMQnJEMlBpRWZZTDQ0MDBwcloxcWNaNlVybkphd3ZtTVFHc2JZbjdRZ0NGNzdIM25qNWRyLzRwMUdlenNiTUhwZnZkNTRnRTl6YXdXak5rRE85bUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzc4NjYyCWZpbGU6UG9ydGFsLU1GRV8wLjEuMTU4X3g2NC1zZXR1cC5leGUKN0IxUDhDK2JZYThTNSt6ZlNzSzh1RnNudHA5bVVjbjJEM21FRkFENEJRQ2VhSU5EVU5tUEpNSnBPdTcwOWRRdU43TG5HRVp0bnc3V0k5UWhvRm0zRHc9PQo="
     },
     "windows-x86_64": {
-      "url": "https://github.com/MFE-Usine/mfe-portal-updater/releases/download/web-v0.1.157/Portal-MFE_0.1.157_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbTAzZGpFakxPeTlBS05TaUNXc2VyK3k2WWhGMTlwSGd0NEhQak53Sk00MkxWQUU0YzNBanlua3Q4MlRHckxZeGQzdE9BK3NoclQyQThPejQwUlp4TXNIVmJyOHVrcVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzc3NjYzCWZpbGU6UG9ydGFsLU1GRV8wLjEuMTU3X3g2NC1zZXR1cC5leGUKMmJFS1J4VXdWTTlzZlJmQkpqL0tqRmhpQUxMd0kyWU0wZzFSbHlSRDYveCt2bWwraWw3b0JQVzZ6SEZUWXB6cGgvN2cxUnZkcEFLRThPaUYyc1F3RHc9PQo="
+      "url": "https://github.com/MFE-Usine/mfe-portal-updater/releases/download/web-v0.1.158/Portal-MFE_0.1.158_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbTAzZGpFakxPeXhMQnJEMlBpRWZZTDQ0MDBwcloxcWNaNlVybkphd3ZtTVFHc2JZbjdRZ0NGNzdIM25qNWRyLzRwMUdlenNiTUhwZnZkNTRnRTl6YXdXak5rRE85bUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzc4NjYyCWZpbGU6UG9ydGFsLU1GRV8wLjEuMTU4X3g2NC1zZXR1cC5leGUKN0IxUDhDK2JZYThTNSt6ZlNzSzh1RnNudHA5bVVjbjJEM21FRkFENEJRQ2VhSU5EVU5tUEpNSnBPdTcwOWRRdU43TG5HRVp0bnc3V0k5UWhvRm0zRHc9PQo="
     }
-  }
+  },
+  "version": "0.1.158",
+  "notes": "Portal MFE logiciel v0.1.158 (bundled UI)."
 }
